@@ -1,0 +1,22 @@
+{
+  "name": "test_nodejs_9.1_9.4",
+  "version": "1.0.0",
+  "description": "That`s a test project to try unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shevtma/test_nodejs_9.1_9.4.git"
+  },
+  "author": "Mary Shevchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shevtma/test_nodejs_9.1_9.4/issues"
+  },
+  "homepage": "https://github.com/Shevtma/test_nodejs_9.1_9.4#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
