@@ -8,6 +8,6 @@ const calculateBonus = (a, b) => {
   //debugger;
   return bonus;
 };
-
-console.log(calculateBonus(30, 90));
+module.exports = calculateBonus;
+//console.log(calculateBonus(30, 90));
 
