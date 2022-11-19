@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1668864462985" clover="3.2.0">
+  <project timestamp="1668864462985" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="8" coveredelements="8" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="script.js" path="/Users/maria/avtotests/Автоматизируй_это/test_nodejs_9.1_9.4/script.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="22" type="stmt"/>
+      <line num="8" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="22" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

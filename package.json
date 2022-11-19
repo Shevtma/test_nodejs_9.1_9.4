@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Shevtma/test_nodejs_9.1_9.4#readme",
   "devDependencies": {
+    "babel-plugin-istanbul": "^6.1.1",
     "jest": "^29.3.1"
   }
 }
